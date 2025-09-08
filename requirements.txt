@@ -1,0 +1,8 @@
+ultralytics
+supervision==0.19.0
+pandas
+numpy
+matplotlib
+opencv-python
+scikit-learn
+filterpy
